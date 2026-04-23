@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ItzNotNoobSMP.aternos.me:52695",
+    "ip": "ItzNotNoobSMP.aternos.me",
     "port": 52695,
     "version": "",
     "try-creative": false
